@@ -1,0 +1,101 @@
+body {
+
+    background-color: #FFF7F3;
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+}
+h1 {
+    font-size: 65px;
+    text-align: center;
+
+}
+p{
+    font-size: 28px;
+    text-align: center
+    ;
+}
+.about-me{
+    background-color: #FFACAC;
+    margin: 100px;
+    padding: 100px;
+    border-radius: 100px;
+
+}
+.my-country{
+    background-color:#FBFFB1;
+    margin: 100px;
+    padding: 100px;
+    border-radius: 100px;
+}
+.my-gallery{
+    background-color: #B1FFC9;
+    margin: 100px;
+    padding: 100px;
+    border-radius: 100px;
+}
+.my-gallery img{
+    width: 400px;
+    height: 250px;
+    border-radius: 20px;
+    margin: 10px;
+}
+.My-favourite-sport{
+    background-color: #B1C9FF;
+    margin: 100px;
+    padding: 100px;
+    border-radius: 100px;
+}
+
+.My-favourite-sport img{
+    display:block;
+    width: 800px;
+    height: 550px;
+    border-radius: 20px;
+    margin: 10px auto;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+ul li{
+    font-size: 30px;
+    text-align: center;
+}
+h2{
+    font-size: 50px;
+    text-align: center;
+text-decoration: underline;
+
+}
+.My-favourite-movie{
+    background-color: #3F7D58;
+    margin: 100px;
+    padding: 100px;
+    border-radius: 100px;
+    color: white;
+}
+
+.My-favourite-movie img{
+    display:block;
+    width: 800px;
+    height: 1200px;
+    border-radius: 20px;
+    margin: 10px auto;
+}
+.my-message{
+    background-color: #C7253E;
+    margin: 100px;
+    padding: 100px;
+    border-radius: 100px;
+}
+.my-projects
+{
+    background-color: rgba(247, 8, 175, 0.718);
+    margin: 100px;
+    padding: 100px;
+    border-radius: 100px;
+}
+.underline{
+    text-decoration: underline;
+}
